@@ -1,3 +1,3 @@
-#DEMO 1
+#DEMO
 
-Created demo
+Updated Demo
