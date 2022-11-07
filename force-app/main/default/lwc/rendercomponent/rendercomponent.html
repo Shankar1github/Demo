@@ -1,0 +1,13 @@
+<template>
+    <div style="width:840px">
+        <lightning-button slot='actions' label='Show/HideDetails' onclick={toggledetails}>
+        </lightning-button>
+    <Lightning-card title={Name}>
+        <template if:true={showdetails}>
+            {Details}
+
+        </template>
+    </Lightning-card>
+</div>
+    
+</template>

@@ -1,0 +1,34 @@
+[
+    {
+        "full_name": "Stevenson, Marva",
+        "dos": "2/9/21",
+        "Insurance_type": "Medicare Replacement",
+        "Patient_ID": "1852945",
+        "Collected": "n/a",
+        "Surgeon": "Edward Dohring, M.D.",
+        "Billing_Date": "Not Billable",
+        "Hospital": "Scottsdale Healthcare Hospitals HonorHealth Thompson Peak",
+        "Reader": "Jonathan Chen, M.D.",
+        "Tech": "Shelby Rowley, CNIM",
+        "Reader": "RNTA",
+        "Reader_Fee": "$ - ",
+        "MSA Fee": "",
+        "Billing_Fee": ""
+    },
+    {
+        "full_name": "Stevenson, Marva",
+        "dos": "2/9/21",
+        "Insurance_type": "Medicare Replacement",
+        "Patient_ID": "1852945",
+        "Collected": "n/a",
+        "Surgeon": "Edward Dohring, M.D.",
+        "Billing_Date": "Not Billable",
+        "Hospital": "Scottsdale Healthcare Hospitals HonorHealth Thompson Peak",
+        "Reader": "Jonathan Chen, M.D.",
+        "Tech": "Shelby Rowley, CNIM",
+        "Reader": "RNTA",
+        "Reader_Fee": "$ - ",
+        "MSA Fee": "",
+        "Billing_Fee": ""
+    }
+]
